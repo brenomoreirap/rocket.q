@@ -44,4 +44,5 @@ module.exports = {
 
         res.redirect(`/room/${roomId}`)
     }
+
 }
